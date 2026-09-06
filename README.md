@@ -94,12 +94,11 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable and us
 
 ## 🔥 Featured Projects
 
-### 💼 Job Search Application
+✂️ Gents-Camp — Appointment Booking Application
 
-A full-stack job platform connecting **Job Seekers, HRs and Administrators**.
+A full-stack appointment booking platform designed for managing and booking available appointment slots.
 
-**Tech:** React Native • Node.js • Express.js • MongoDB • Firebase • JWT
-
+Tech: React Native • Node.js • Express.js • MongoDB  • JWT
 ---
 
 ### 🎓 E-Learning Platform
@@ -128,35 +127,15 @@ Currently building and experimenting with **LangChain-based applications**, LLM 
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" />
-
-</div>
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
