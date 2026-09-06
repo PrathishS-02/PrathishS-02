@@ -11,9 +11,9 @@
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<!-- <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+</a> -->
 <a href="YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -51,7 +51,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable and us
 ### ⚛️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
 </p>
 
 ### 🔥 Backend & Database
