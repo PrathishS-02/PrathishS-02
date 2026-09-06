@@ -8,19 +8,19 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/prathish-selvam-711534251">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <!-- <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a> -->
-<a href="YOUR_EMAIL">
+<a href="prathishselvam123@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=PrathishS-02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -68,7 +68,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable and us
 
 **Currently exploring:**
 
-`LangChain` • `RAG` • `LLMs` • `Gemini` • `Ollama` • `Embeddings` • `Vector Databases`
+`LangChain` • `RAG` • `LLMs` • `Gemini` • `Ollama` •  • `Vector Databases`
 
 ### 📱 Mobile Development
 
@@ -187,12 +187,16 @@ I'm always interested in connecting with developers, collaborating on projects a
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/prathish-selvam-711534251">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<!-- <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a> -->
+
+<a href="prathishselvam123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
