@@ -1,4 +1,233 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Hi, I'm Prathish Selvam
+
+### MERN Stack Developer • AI/GenAI Developer • React Native Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+Native+Developer;GenAI+%26+RAG+Developer;Building+Scalable+Web+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **MERN Stack Developer** passionate about building modern, scalable and user-friendly applications.
+
+* 💻 Building applications with **React, Node.js, Express & MongoDB**
+* 📱 Developing cross-platform apps using **React Native & Expo**
+* 🤖 Exploring **Generative AI, LangChain, RAG & LLM applications**
+* 🧠 Currently learning more about **AI-powered application development**
+* 🔧 Interested in backend architecture, APIs and scalable systems
+* 🎮 Exploring **Unity & Game Development**
+* 🌱 Always learning, experimenting and building new projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+### 🔥 Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🤖 AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Currently exploring:**
+
+`LangChain` • `RAG` • `LLMs` • `Gemini` • `Ollama` • `Embeddings` • `Vector Databases`
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React Native • Expo**
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,render,git,github" />
+</p>
+
+### 🎮 Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 💼 Job Search Application
+
+A full-stack job platform connecting **Job Seekers, HRs and Administrators**.
+
+**Tech:** React Native • Node.js • Express.js • MongoDB • Firebase • JWT
+
+---
+
+### 🎓 E-Learning Platform
+
+A mobile learning platform with course content, notes and file-based learning resources.
+
+**Tech:** React Native • Expo • Node.js • Express.js • MongoDB • AWS S3
+
+---
+
+### 🧑‍💻 My Best – Web Lab
+
+A mobile coding environment for experimenting with:
+
+`HTML` • `CSS` • `JavaScript` • `Output`
+
+**Tech:** React Native • Express.js • MongoDB
+
+---
+
+### 🤖 AI / RAG Experiments
+
+Currently building and experimenting with **LangChain-based applications**, LLM integrations, embeddings and Retrieval-Augmented Generation.
+
+**Tech:** Node.js • TypeScript • LangChain • Gemini • Ollama • RAG
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🧰 Tools I Use
+
+| Category             | Tools                     |
+| -------------------- | ------------------------- |
+| **Code Editor**      | VS Code                   |
+| **Version Control**  | Git, GitHub               |
+| **API Testing**      | Postman                   |
+| **Database**         | MongoDB Atlas             |
+| **Cloud**            | AWS                       |
+| **Deployment**       | Vercel, Render            |
+| **Containers**       | Docker                    |
+| **AI Development**   | LangChain, Gemini, Ollama |
+| **Game Development** | Unity                     |
+
+---
+
+## 🎯 Currently Learning
+
+```text
+MERN Stack
+    ↓
+Advanced Backend Development
+    ↓
+Generative AI
+    ↓
+LangChain + RAG
+    ↓
+LLM Applications
+    ↓
+AI-powered Full Stack Applications
+```
+
+---
+
+## 💡 My Development Philosophy
+
+> **Build → Break → Debug → Learn → Improve → Repeat**
+
+I believe the best way to learn technology is by **building real projects**, solving problems and continuously improving.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on projects and learning new technologies.
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Building. Keep Learning. Keep Growing. 🚀**
+
+</div>
+
 
 <!--
 **PrathishS-02/PrathishS-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
